@@ -1,0 +1,1 @@
+/Users/ninolipartiia/projects/figures/target/debug/figures: /Users/ninolipartiia/projects/figures/src/main.rs /Users/ninolipartiia/projects/figures-lib/src/lib.rs /Users/ninolipartiia/projects/figures-lib/src/three_dim.rs /Users/ninolipartiia/projects/figures-lib/src/two_dim.rs
